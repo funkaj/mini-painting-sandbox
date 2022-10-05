@@ -1,8 +1,9 @@
+import Slider from "../../components/Slider/Slider";
+
 const Home = () => {
     return ( 
         <div>
-            <h2>Funk.Ink</h2> 
-            <p>Main Content</p>
+            <Slider/>
         </div>
     );
 }

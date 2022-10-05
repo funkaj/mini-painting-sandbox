@@ -1,8 +1,10 @@
 const Footer = () => {
     return ( 
-        <div>
-            <h2>Funk.Ink</h2> 
-            <p>Footer Content</p>
+        <div className="footer">
+            <div className="container ">
+                <h2>Funk.Ink</h2> 
+                <p>Footer Content</p>
+            </div>
         </div>
     );
 }
