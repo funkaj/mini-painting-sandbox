@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mini-painting-sandbox/static/css/main.9bd7a35e.css",
-    "main.js": "/mini-painting-sandbox/static/js/main.ee27e638.js",
+    "main.css": "/mini-painting-sandbox/static/css/main.b4148900.css",
+    "main.js": "/mini-painting-sandbox/static/js/main.8af11b25.js",
     "index.html": "/mini-painting-sandbox/index.html",
-    "main.9bd7a35e.css.map": "/mini-painting-sandbox/static/css/main.9bd7a35e.css.map",
-    "main.ee27e638.js.map": "/mini-painting-sandbox/static/js/main.ee27e638.js.map"
+    "main.b4148900.css.map": "/mini-painting-sandbox/static/css/main.b4148900.css.map",
+    "main.8af11b25.js.map": "/mini-painting-sandbox/static/js/main.8af11b25.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bd7a35e.css",
-    "static/js/main.ee27e638.js"
+    "static/css/main.b4148900.css",
+    "static/js/main.8af11b25.js"
   ]
 }
